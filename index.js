@@ -1,5 +1,5 @@
 let nomeDoHeroi = "Jar Jar Binks"
-let nivel = 10000
+let nivel = 6425
 let experiencia = ""
 
 if (nivel <= 1000) {
