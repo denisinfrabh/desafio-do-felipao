@@ -10,7 +10,7 @@ if (nivel <= 1000) {
     experiencia = "PRATA"
 } else if ((nivel >= 6001) && (nivel <= 7000)) {
     experiencia = "OURO"
-} if ((nivel >= 7001 && (nivel <= 8000))) {
+} if ((nivel >= 7001) && (nivel <= 8000)) {
     experiencia = "PLATINA"
 } else if ((nivel >= 8001) && (nivel <= 9000)) {
     experiencia = "ASCENDENTE"
